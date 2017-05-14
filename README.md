@@ -1,5 +1,7 @@
 # mag-stream [![Build Status](https://travis-ci.org/mahnunchik/mag-stream.svg)](https://travis-ci.org/mahnunchik/mag-stream)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/mag-stream.svg)](https://greenkeeper.io/)
+
 [Mag](https://github.com/mahnunchik/mag) logger magic module
 
 ## What it does?
